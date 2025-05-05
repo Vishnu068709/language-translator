@@ -1,0 +1,35 @@
+{
+  "name": "language-translator",
+  "version": "1.0.0",
+  "description": "A simple language translator using Google Translate or LibreTranslate API with text-to-speech functionality.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "react",
+    "translator",
+    "google-translate",
+    "libretranslate",
+    "text-to-speech"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {},
+  "homepage": "http://yourusername.github.io/language-translator",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/language-translator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/language-translator/issues"
+  }
+}
