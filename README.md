@@ -8,30 +8,6 @@ This is a simple Language Translator application built with React. It utilizes t
 - Displays the translated text.
 - Text-to-speech functionality to listen to the translated text.
 
-## Project Structure
-
-```
-language-translator
-├── public
-│   ├── index.html
-│   └── favicon.ico
-├── src
-│   ├── components
-│   │   ├── InputForm.jsx
-│   │   ├── OutputDisplay.jsx
-│   │   └── TextToSpeechButton.jsx
-│   ├── services
-│   │   └── apiService.js
-│   ├── App.jsx
-│   ├── index.js
-│   └── styles
-│       └── App.css
-├── .gitignore
-├── package.json
-├── README.md
-└── LICENSE
-```
-
 ## Installation
 
 1. Clone the repository:
